@@ -13,3 +13,5 @@ Note: the gcode files in this repository work for my configuration. Check out ca
   * start the print, without anything on the plate
   * after the plate has positioned 65mm under the top position insert the tray with the desiccant
   * wait 4 hours for the desiccant to get dry
+
+![Before and after](before-after.jpg)
